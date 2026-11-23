@@ -28,4 +28,7 @@ pip install -r https://raw.githubusercontent.com/rasbt/LLMs-from-scratch/main/re
 ## Progress
 
 Currently doing chapter 2, which deals with tokenization & data loading
-- Coded a simple tokenizer
+- Simple Tokenizer (done) - ch02.py
+For educational purposes:
+- Simple BPE algorithm (done) - simple_bpe.py
+- More proper (still simple) BPE algorithm that mimicks tiktoken (in progress)
