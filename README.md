@@ -29,6 +29,7 @@ pip install -r https://raw.githubusercontent.com/rasbt/LLMs-from-scratch/main/re
 
 Currently doing chapter 2, which deals with tokenization & data loading
 - Simple Tokenizer (done) - ch02.py
+- Simple Data Loader (done) - ch02.py
 
 For educational purposes:
 - Simple BPE algorithm (done) - simple_bpe.py
